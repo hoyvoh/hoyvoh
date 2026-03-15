@@ -10,12 +10,10 @@ Developer & Tech Enthusiast<br>
 </p>
 
 ---
-
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hoyvoh&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoyvoh&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoyvoh&theme=tokyo-night"/>
 </p>
 
 ---
@@ -36,14 +34,6 @@ Developer & Tech Enthusiast<br>
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoyvoh&theme=tokyo-night"/>
-</p>
-
----
-
 ## 📚 Research
 
 ### Dialogue-Based Multimodal Retrieval Framework for Vietnamese E-Commerce RAG System | Accepted at **IEEE RIVF 2025**
@@ -51,8 +41,4 @@ Developer & Tech Enthusiast<br>
 🔗 [https://github.com/hoyvoh](https://github.com/hoyvoh/Vietnamese-E-commerce-Dialog-based-Multimodal-Retrieval-Framework)
 🌐 [Publication](https://ieeexplore.ieee.org/document/11365190)
 
----
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=hoyvoh&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
