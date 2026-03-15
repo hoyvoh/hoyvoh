@@ -1,16 +1,78 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋 I'm Vy</h1>
 
-<!--
-**hoyvoh/hoyvoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Developer & Tech Enthusiast<br>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Tech+Enthusiast;AI+Research+Engineer;Backend+System+Builder&center=true&width=500&height=50">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Interested in **AI systems, multimodal retrieval, and developer intelligence platforms**
+- 🧠 Working with **AI engineering, backend systems, and research-driven development**
+- 🌍 Passionate about **open-source ecosystems and emerging tech trends**
+- 📊 Exploring ways to **analyze developer behavior and technology adoption signals**
+
+---
+
+## 📚 Research
+
+### Dialogue-Based Multimodal Retrieval Framework  
+for Vietnamese E-Commerce RAG System
+
+Accepted at **IEEE RIVF 2025**
+
+Repository:
+
+🔗 [https://github.com/hoyvoh](https://github.com/hoyvoh/Vietnamese-E-commerce-Dialog-based-Multimodal-Retrieval-Framework)
+🌐 [Publication](https://ieeexplore.ieee.org/document/11365190)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hoyvoh&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoyvoh&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=hoyvoh&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,spring,aws,k8s,redis,pytorch" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoyvoh&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+- GitHub: https://github.com/hoyvoh
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=hoyvoh&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
