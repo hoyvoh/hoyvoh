@@ -15,6 +15,7 @@ Developer & Tech Enthusiast<br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hoyvoh&show_icons=true&theme=tokyonight" height="180"/>
+  <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoyvoh&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
