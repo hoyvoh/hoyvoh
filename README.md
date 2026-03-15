@@ -4,7 +4,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Tech+Enthusiast;AI+Research+Engineer&center=true&width=500&height=50">
 </p>
+
 ---
+
 ## 📈 Contribution Graph
 
 <p align="center">
