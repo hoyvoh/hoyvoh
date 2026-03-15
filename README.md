@@ -2,13 +2,8 @@
 <h1 align="center">Hi there 👋 I'm Vy</h1>
 
 <p align="center">
-Developer & Tech Enthusiast<br>
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Tech+Enthusiast;AI+Research+Engineer&center=true&width=500&height=50">
 </p>
-
 ---
 ## 📈 Contribution Graph
 
