@@ -11,29 +11,6 @@ Developer & Tech Enthusiast<br>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔭 Interested in **AI systems, multimodal retrieval, and developer intelligence platforms**
-- 🧠 Working with **AI engineering, backend systems, and research-driven development**
-- 🌍 Passionate about **open-source ecosystems and emerging tech trends**
-- 📊 Exploring ways to **analyze developer behavior and technology adoption signals**
-
----
-
-## 📚 Research
-
-### Dialogue-Based Multimodal Retrieval Framework  
-for Vietnamese E-Commerce RAG System
-
-Accepted at **IEEE RIVF 2025**
-
-Repository:
-
-🔗 [https://github.com/hoyvoh](https://github.com/hoyvoh/Vietnamese-E-commerce-Dialog-based-Multimodal-Retrieval-Framework)
-🌐 [Publication](https://ieeexplore.ieee.org/document/11365190)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -67,9 +44,12 @@ Repository:
 
 ---
 
-## 🌐 Connect
+## 📚 Research
 
-- GitHub: https://github.com/hoyvoh
+### Dialogue-Based Multimodal Retrieval Framework for Vietnamese E-Commerce RAG System | Accepted at **IEEE RIVF 2025**
+
+🔗 [https://github.com/hoyvoh](https://github.com/hoyvoh/Vietnamese-E-commerce-Dialog-based-Multimodal-Retrieval-Framework)
+🌐 [Publication](https://ieeexplore.ieee.org/document/11365190)
 
 ---
 
