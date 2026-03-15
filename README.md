@@ -6,7 +6,7 @@ Developer & Tech Enthusiast<br>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Tech+Enthusiast;AI+Research+Engineer;Backend+System+Builder&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Tech+Enthusiast;AI+Research+Engineer&center=true&width=500&height=50">
 </p>
 
 ---
@@ -29,7 +29,7 @@ Developer & Tech Enthusiast<br>
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,spring,aws,k8s,redis,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,java,spring,typescript,vue,react,aws,k8s" />
 </p>
 
 ---
