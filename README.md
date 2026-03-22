@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋 I'm Vy</h1>
 
 <p align="center">  
-  [hoyvoh](https://hoyvoh.github.io/)
+  https://hoyvoh.github.io/
 </p>
 
 <p align="center">
