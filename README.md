@@ -1,9 +1,8 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋 I'm Vy</h1>
 
-[hoyvoh](https://hoyvoh.github.io/)
-
 <p align="center">
+  [hoyvoh](https://hoyvoh.github.io/)
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Tech+Enthusiast;AI+Research+Engineer&center=true&width=500&height=50">
 </p>
 
