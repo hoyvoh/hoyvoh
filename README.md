@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋 I'm Vy</h1>
 
 <p align="center">  
-  https://hoyvoh.github.io/
+  🌐 Portfolio: https://hoyvoh.github.io/
 </p>
 
 <p align="center">
