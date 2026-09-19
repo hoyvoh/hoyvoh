@@ -11,14 +11,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoyvoh&theme=tokyo-night"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
